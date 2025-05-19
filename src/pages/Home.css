@@ -1,0 +1,32 @@
+body{
+   color: white;
+    background-color: #55418E;
+}
+
+img{
+    display: block;
+  margin: auto;
+  margin-top: 1rem;
+}
+
+p{
+    text-align: center;
+    margin: 2rem;
+    width: 315px;
+}
+
+
+h1{
+    text-align: center;
+    margin: 2rem;
+    width: 315px;
+}
+
+.arrow{
+    margin-right: 0.5rem;
+}
+
+.close{
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
